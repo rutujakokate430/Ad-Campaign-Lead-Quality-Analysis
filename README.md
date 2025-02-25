@@ -59,7 +59,7 @@ The dataset consists of 3,021 rows and 24 columns, containing the following key 
    ```
 3. Open and run the Jupyter Notebook:
    ```bash
-   jupyter notebook Aarki_Takehome.ipynb
+   jupyter notebook Ad Campaign Lead Quality Analysis.ipynb
    ```
 
 ## Future Work
